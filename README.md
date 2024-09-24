@@ -1,1 +1,2 @@
-# Python-ML-Logistic-Regression-Airline-CRM
+# Binomial Logistic Regression with Python · Airline CRM
+
