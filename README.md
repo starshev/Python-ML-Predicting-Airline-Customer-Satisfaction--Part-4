@@ -9,4 +9,4 @@ The airline is interested in knowing if a better in-flight entertainment experie
 EDA, Data Cleaning, Data Wrangling  
 Feature engineering for ML  
 Building a Binomial Logistic Regression model  
-Evaluating a Binomial Logistic Regression model using a confusion matrix and regression plot
+Evaluating a Binomial Logistic Regression model using a confusion matrix and regression plot  
